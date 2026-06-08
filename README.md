@@ -79,10 +79,6 @@ The dataset contains Amazon sales transaction records including:
 * Evaluated profitability across different product segments.
 * Supported business decisions through interactive reporting.
 
-## Dashboard Preview
-
-![Dashboard Screenshot](images/dashboard.png)
-
 ## How to Use
 
 1. Download the Power BI (.pbix) file.
