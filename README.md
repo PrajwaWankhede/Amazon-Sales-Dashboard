@@ -81,8 +81,6 @@ The dataset contains Amazon sales transaction records including:
 
 ## Dashboard Preview
 
-*(Add dashboard screenshots here)*
-
 ![Dashboard Screenshot](images/dashboard.png)
 
 ## How to Use
